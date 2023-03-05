@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">First_lesson_in_Mart</string>
+    <string name="increase">Увеличить</string>
+    <string name="counter">Счётчик</string>
+    <string name="activity_start">Старт активности</string>
+    <string name="activity_pause">Пауза активности</string>
+    <string name="activity_destroy">Уничтожение активности</string>
+    <string name="activity_resume">Продолжение активности</string>
+    <string name="activity_stop">Стоп активности</string>
+    <string name="activity_restart">Рестарт активности</string>
+    <string name="activity_create">Создание активности</string>
+</resources>
